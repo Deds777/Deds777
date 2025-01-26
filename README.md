@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Job outside<br>🎲 Fun fact: I started ate 15</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Job outside<br>🎲 Fun fact: I started ate 15 years old</p>
 
 ###
 
